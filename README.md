@@ -1,1 +1,7 @@
-# React browser API hooks [font-size:1px;]
+<style> 
+    #title {
+        text-align:center;
+    }
+</style>
+
+# React browser API hook {#identifier title}
