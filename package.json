@@ -1,5 +1,5 @@
 {
-  "name": "react-browser-api-hooks",
+  "name": "react-browser-api-hook",
   "version": "1.0.0",
   "type": "module",
   "dependencies": {
@@ -9,7 +9,6 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/PablCendrero8310/react-browser-api-hooks"
-
   },
   "devDependencies": {
     "@types/react": "^18.2.43",
