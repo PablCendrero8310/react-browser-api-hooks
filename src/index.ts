@@ -1,5 +1,6 @@
-import useLocalStorage from "./hooks/useLocalStorage";
+import {useLocalStorage,  useSessionStorage} from "./hooks/useWebStorage";
 
 export {
-    useLocalStorage
+    useLocalStorage,
+    useSessionStorage
 }
